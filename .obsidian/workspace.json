@@ -39,16 +39,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
+                "file": "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術"
+              "title": "【金欠学生向け】無料でもここまでできるフルスタック開発！"
+            }
+          },
+          {
+            "id": "ce68d2e59672a75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【金欠学生向け】無料でもここまでできるフルスタック開発！"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9076813c22c9fd5a",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
+                "file": "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術へのバックリンク"
+              "title": "【金欠学生向け】無料でもここまでできるフルスタック開発！へのバックリンク"
             }
           },
           {
@@ -140,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
+                "file": "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術からのアウトゴーイングリンク"
+              "title": "【金欠学生向け】無料でもここまでできるフルスタック開発！からのアウトゴーイングリンク"
             }
           },
           {
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
+                "file": "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術のアウトライン"
+              "title": "【金欠学生向け】無料でもここまでできるフルスタック開発！のアウトライン"
             }
           },
           {
@@ -193,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "701b0c6fcf4167fc",
+  "active": "ce68d2e59672a75a",
   "lastOpenFiles": [
-    "Clippings/なぜObsidianが2025年になって注目されているのか.md",
-    "Clippings/2025年 生成AIの新たな波「AI エージェント」の可能性.md",
     "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
+    "Clippings/【金欠学生向け】無料でもここまでできるフルスタック開発！.md",
+    "Clippings/2025年 生成AIの新たな波「AI エージェント」の可能性.md",
+    "Clippings/なぜObsidianが2025年になって注目されているのか.md",
     "無題のファイル.md",
     "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術 1.md",
     "小寺信良.md",
