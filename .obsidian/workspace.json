@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "グラフビュー"
             }
+          },
+          {
+            "id": "dcd3020bd3e38074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/じゃあ、おうちで学べる.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "じゃあ、おうちで学べる"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,9 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28c3b72248a4577a",
+  "active": "dcd3020bd3e38074",
   "lastOpenFiles": [
+    "Clippings/Claude Code の CLAUDE.mdは設定した方がいい.md",
+    "Clippings/じゃあ、おうちで学べる.md",
+    "Clippings/Don’t Build Multi-Agents.md",
     "Clippings/Windows で Claude Code はじめてみる.md",
+    "Clippings/nishimoto265Claude-Code-Communication.md",
+    "Clippings/How I Use Claude Code.md",
+    "Clippings/Claude Codeで内部統制３点セットを作る（Drawioフロー図の生成）｜兎耳山ルカ 公認会計士.md",
     "Clippings/Shubhamsabooawesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.md",
     "Clippings/SaaSなのにほぼノーコードで2億円調達した話｜Kotaro Harada  HQ.md",
     "Clippings/macOS以外のWindowsLinux環境でもXcodeを使わずにiOSアプリをビルド＆デプロイできる「xtool」がリリース。.md",
@@ -188,24 +209,18 @@
     "Clippings/MCPサーバーって便利なのか？色々触ってみて感じたことを解説してみた.md",
     "Clippings/How I reduced 90% errors for my Cursor.md",
     "Clippings/Claude Codeを並列組織化してClaude Code Companyにするtmuxコマンド集.md",
-    "Clippings/Claude Codeで内部統制３点セットを作る（Drawioフロー図の生成）｜兎耳山ルカ 公認会計士.md",
     "Clippings/Thread by @sesere115.md",
-    "Clippings/Don’t Build Multi-Agents.md",
     "Clippings/Node.jsのバージョン管理にVoltaを推したい.md",
     "Clippings/なぜObsidianが2025年になって注目されているのか.md",
     "Clippings/個人開発で月20万円を目指すための考え方.md",
-    "Clippings/How I Use Claude Code.md",
     "Clippings/【徹底解説】MCPサーバーを6つの主要カテゴリに分類（2025年版）.md",
     "Clippings/Supabase MCPサーバーが公式から出てたので使ってみよう  DevelopersIO.md",
     "Clippings/Share the graph view and notes as HTML page for free with obsidian2cosma - Share & showcase.md",
     "Clippings/DevinとCursorを比較してみてわかった、マルチタスクエンジニアにはDevinこそが救世主である理由.md",
     "Clippings/詐欺じゃないオンラインビジネスのリスト｜プロコン スモールビジネス大全.md",
     "Clippings/temp_n8n_course.md",
-    "Clippings/nishimoto265Claude-Code-Communication.md",
     "Clippings/集めたニュースが知識に変わる――ライターが「Cursor」と「Obsidian」で実践した、AI時代の情報整理術.md",
     "Clippings/【徹底解説】MCPとは？「AIのUSBポート」.md",
-    "Clippings/おすすめ Claude Code 設定・運用まとめ  Wantedly Engineer Blog.md",
-    "Clippings/NSFW-APINSFW_Wan_1.3b · Hugging Face.md",
     "How I reduced 90% errors for my Cursor.txt",
     "[English (auto-generated)] How I reduced 90% errors for my Cursor (+ any other AI IDE) [DownSub.com].txt",
     "Clippings/temp.txt",
